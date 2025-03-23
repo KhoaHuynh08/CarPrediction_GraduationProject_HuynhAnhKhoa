@@ -9,20 +9,20 @@ Source: https://www.kaggle.com/datasets/hellbuoy/car-price-prediction/code
 # Table Of Content
 # 1. Importing Libraries and Loading Data
 # 2. Data Inspection
-### Summary of the DataFrame, including the data types of each column, the number of non-null values
-### Removes duplicate rows from the DataFrame
-### Preview of the data's structure and values
-### Check the data type of each column in the DataFrame
-### Understanding the distribution of values
-### Statistics for the numerical columns in the DataFrame: standard deviation, minimum, and maximum values
-### Analyzing Categorical Data
+- Summary of the DataFrame, including the data types of each column, the number of non-null values
+- Removes duplicate rows from the DataFrame
+- Preview of the data's structure and values
+- Check the data type of each column in the DataFrame
+- Understanding the distribution of values
+- Statistics for the numerical columns in the DataFrame: standard deviation, minimum, and maximum values
+- Analyzing Categorical Data
 # 3. Visualizing Numerical Data Distributions
-### Distribution of Numerical Features
-### Price Analysis
-### Define the list of categorical columns to analyze
-### Number of top car models by Frequency
-### Top car models by average price
-### Categorical Feature vs. Price
+- Distribution of Numerical Features
+- Price Analysis
+- Define the list of categorical columns to analyze
+- Number of top car models by Frequency
+- Top car models by average price
+- Categorical Feature vs. Price
 # 4. Correlation Analysis
 # 5. Linear Regression Modeling
 
